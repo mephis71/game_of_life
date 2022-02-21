@@ -1,5 +1,8 @@
 #pragma once
 #include "Game.h"
+#include <cmath>
+#include <SFML/Graphics.hpp>
+#include <SFML/Window.hpp>
 
 void Game::initWindow()
 {
